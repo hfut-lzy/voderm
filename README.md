@@ -4,7 +4,7 @@
 I’m currently learning the basics of convolutional neural networks.I plan to share my note after one more chapter.
 - 💞️ So，If you are interested in learning and communicating with me, please contact me through the email below.
 - 📫 How to reach me ...
-  liziyi@163.com
+  390964835@qq.com
 
 <!---
 voderm/voderm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
